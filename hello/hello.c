@@ -2,5 +2,7 @@
 #include "stdio.h"
 void main()
 {   
-	printf("hello world");
+	int i=3;
+	i++;
+	printf("hello world%d",i);
 }
